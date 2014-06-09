@@ -1,1 +1,8 @@
 C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\bin\Debug\EscapeTheGame.exe.config
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\obj\Debug\EscapeTheGame.csprojResolveAssemblyReference.cache
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\obj\Debug\EscapeTheGame.Properties.Resources.resources
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\obj\Debug\EscapeTheGame.csproj.GenerateResource.Cache
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\bin\Debug\EscapeTheGame.exe
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\bin\Debug\EscapeTheGame.pdb
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\obj\Debug\EscapeTheGame.exe
+C:\Users\Vinson\Documents\Visual Studio 2012\Projects\EscapeTheGame\EscapeTheGame\obj\Debug\EscapeTheGame.pdb
