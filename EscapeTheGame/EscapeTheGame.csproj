@@ -51,7 +51,10 @@
     <Compile Include="ObjectModel.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Speciality.cs" />
+    <Compile Include="StaticVariables.cs" />
     <Compile Include="Tile.cs" />
+    <Compile Include="Tiles\LavaTile.cs" />
+    <Compile Include="Tiles\NormalTile.cs" />
     <Compile Include="Window.cs">
       <SubType>Form</SubType>
     </Compile>

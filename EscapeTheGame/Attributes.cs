@@ -10,7 +10,7 @@ namespace EscapeTheGame
     {
         public enum Attribute
         {
-            DEAD = -1,
+            KO = -1,
             NONE = 0,
             BURNING = 1,
             FROST_BITE = 2,
@@ -19,5 +19,13 @@ namespace EscapeTheGame
             BLIND = 5
         };
         public Attribute Effect;
+        //By Turns
+        public int Duration;
+
+        public Attributes(Attribute effect, int duration)
+        {
+            Effect = effect;
+            Duration = duration;
+        }
     }
 }

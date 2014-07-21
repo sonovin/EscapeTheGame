@@ -9,11 +9,17 @@ namespace EscapeTheGame
 {
     public class WorldMap
     {
-        private List<PictureBox> tiles;
+        private List<Tile> tiles;
 
-        public WorldMap(int width, int height, Form form)
+        public WorldMap(int width, int height, Window form)
         {
+            for (int x = 0; x < width; x++)
+            {
+                for (int y = 0; y < height; y++)
+                {
 
+                }
+            }
         }
     }
 }

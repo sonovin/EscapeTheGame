@@ -10,17 +10,18 @@ using System.Windows.Forms;
 namespace EscapeTheGame
 {
     public class Mastermind
-    {
-        public int Width = 800;
-        public int Height = 800;
+    { 
         public Color BackgroundColor = Color.Brown;
+        public WorldMap worldMap;
         Window GameWindow;
         public Mastermind(Window window)
         {
             GameWindow = window;
-            GameWindow.Width = Width;
-            GameWindow.Height = Height;
+            GameWindow.Width = StaticVariables.WIDTH;
+            GameWindow.Height = StaticVariables.HEIGHT;
             GameWindow.BackColor = BackgroundColor;
+
+            worldMap = new WorldMap(StaticVariables.WIDTH,StaticVariables.HEIGHT,GameWindow);
         }
     }
 }
