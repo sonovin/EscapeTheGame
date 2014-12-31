@@ -12,5 +12,6 @@ namespace EscapeTheGame
         public string SpawnAs;
         public Dictionary<string, string> PossibleFusions;
         public List<Speciality> specialities;
+        public string Name;
     }
 }

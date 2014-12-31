@@ -13,7 +13,8 @@ namespace EscapeTheGame
         public string Description;
         public List<Attributes> Status;
         public Position Location;
-        public Item ItemHeld;
+        public List<Item> ItemHeld;
+        public List<Attack> Attacks;
         public int Strength;
         public int Intelligence;
         public int Dexterity;
