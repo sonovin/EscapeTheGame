@@ -47,6 +47,7 @@
     <Compile Include="Attack.cs" />
     <Compile Include="Attributes.cs" />
     <Compile Include="Character.cs" />
+    <Compile Include="Helpers\AttributeHelper.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Mastermind.cs" />
     <Compile Include="ObjectModel.cs" />
